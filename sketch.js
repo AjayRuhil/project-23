@@ -76,8 +76,7 @@ function draw() {
 
   
   drawSprites();
-  keyPressed();
-  box.display();
+
 
 
   
